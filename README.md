@@ -1,3 +1,3 @@
-# Rosarium Beatae Mariae Virginis
+# Angelus
 
-Cheat-sheet of the prayers and mysteries of the rosary in Latin for printing double sided.
+Fiche pour prier l'Angelus en francais et en latin
